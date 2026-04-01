@@ -40,5 +40,3 @@ cd sales-assistant
 npm install
 npm run dev
 ```
-
-Este proyecto es de uso libre para fines educativos y de práctica.
